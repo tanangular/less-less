@@ -1,5 +1,7 @@
 ## Process and minify LESS on the fly
 
+*Built to play nice with [Symphony CMS](http://symphony-cms.com/)*
+
 It's so easy..
 
 1. Write with [LESS](http://lesscss.org/)
