@@ -15,7 +15,7 @@ Simply download and drop on a web server running PHP.
 
 ### `report.php` contents
 
-	**LESS in**
+**LESS in**
 
 	@base: 30px;
 
@@ -27,9 +27,7 @@ Simply download and drop on a web server running PHP.
 	    }
 	}
 
-	- - - - -
-
-	**CSS out**
+**CSS out**
 
 	.group .entry {
 	  border:solid 1px;
@@ -37,9 +35,7 @@ Simply download and drop on a web server running PHP.
 	  text-align:center;
 	}
 
-	- - - - -
-
-	**CSS minified**
+**CSS minified**
 
 	.group
 	.entry{border:solid 1px;width:150px;text-align:center}
